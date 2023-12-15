@@ -4,3 +4,6 @@ This project aims to investigate the relationship between socioeconomic factors 
 
 Methodology:
 The project will utilize a mixed-method approach, integrating data collection, statistical analysis, and interpretive reasoning.
+
+DATA COLLECTION:
+This project utilized data gathered from the US Census Bureau via their American Community Survey API. I also used data from MIT Election Labs. 
